@@ -20,6 +20,10 @@ class ComposerStaticInit3ee0c3dc6f72f62e07f7e385f6814cf9
         array (
             'Portal\\' => 7,
         ),
+        'F' => 
+        array (
+            'Faker\\' => 6,
+        ),
         'C' => 
         array (
             'Carbon\\' => 7,
@@ -38,6 +42,10 @@ class ComposerStaticInit3ee0c3dc6f72f62e07f7e385f6814cf9
         'Portal\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'Faker\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/fzaninotto/faker/src/Faker',
         ),
         'Carbon\\' => 
         array (

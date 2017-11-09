@@ -1,6 +1,7 @@
 <?php
 require 'vendor/autoload.php';
 
+use Faker\Factory;
 use Carbon\Carbon;
 use Portal\News;
 
