@@ -1,0 +1,12 @@
+{
+    "name": "acidopal/kelas_oop",
+    "authors": [
+        {
+            "name": "Naufal Rasyid",
+            "email": "naufalrasyid86@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.22"
+    }
+}
