@@ -8,5 +8,10 @@
     ],
     "require": {
         "nesbot/carbon": "^1.22"
+    },
+    "autoload": {
+        "psr-4":{
+            "Portal\\" : "src/"
+        }
     }
 }

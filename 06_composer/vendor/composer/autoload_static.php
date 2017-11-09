@@ -16,6 +16,10 @@ class ComposerStaticInit3ee0c3dc6f72f62e07f7e385f6814cf9
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Component\\Translation\\' => 30,
         ),
+        'P' => 
+        array (
+            'Portal\\' => 7,
+        ),
         'C' => 
         array (
             'Carbon\\' => 7,
@@ -30,6 +34,10 @@ class ComposerStaticInit3ee0c3dc6f72f62e07f7e385f6814cf9
         'Symfony\\Component\\Translation\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/translation',
+        ),
+        'Portal\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
         'Carbon\\' => 
         array (
